@@ -83,3 +83,26 @@ body {
 .carouselTitlesWhite {
     color: white;
 }
+
+.gameSuggestions {
+    position: relative;
+    top:100px;
+    left: 50px;
+    
+}
+
+.col-sm-3 {
+  position: relative;
+  left: 10px;
+}
+
+.hr1 {
+    position: absolute;
+    top: 1850px!important;
+}
+
+
+.pageBreakText {
+    position: relative;
+    top: 355px;
+}
