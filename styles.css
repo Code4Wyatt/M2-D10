@@ -104,7 +104,7 @@ body {
 
 .pageBreakText {
     position: relative;
-    top: 85px;
+    top: 104px;
     left: 80px;
 }
 
@@ -113,16 +113,28 @@ body {
     max-width: 1116px!important;
 }
 
-hr {
-    position: relative;
-    top: 90px;
-    max-width: 1050px;
-    margin-right: 70px;
+.hr-mid-top {
+  position: relative;
+  top: 106px;
+}
+
+.hr-mid-bottom {
+  position: relative;
+  top: 106px;
+  margin-bottom: 5px;
 }
 
 .recommended {
     position: relative;
     top: 80px;
+    margin-top: 10px;
+}
+
+.recom {
+  position: relative;
+  
+  margin-top: 40px;
+  margin-bottom: 10px;
 }
 
 .sale {
@@ -137,6 +149,11 @@ hr {
 .hrRecom {
  position: relative;
  top: 1px;
+}
+
+.hrMiddle {
+  position: absolute;
+  top: 300px;
 }
 
 .tiles {
