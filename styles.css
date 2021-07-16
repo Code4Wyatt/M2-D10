@@ -46,3 +46,40 @@ body {
 .navicon {
     color: color: rgb(202, 202, 202);
 }
+
+.carouselimg {
+    position: relative;
+    left: 400px;
+    max-width: 1050px;
+}
+
+.carousel-control-prev {
+    margin-left: 200px;
+}
+.carousel-control-next {
+    margin-right: 200px;
+}
+
+.carousel-indicators {
+    bottom: -47px!important;
+}
+
+.carousel-caption {
+    position: absolute;
+    right:45%!important;
+    bottom: -05px!important;
+    left: 15%!important;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.carouselTitles {
+    color: black;
+}
+
+.carouselTitlesWhite {
+    color: white;
+}
