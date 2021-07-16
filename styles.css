@@ -25,3 +25,11 @@
   position: relative;
   right: 400px;
 }
+
+.highlights {
+  font-weight: bold;
+  position: absolute;
+  left: 400px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
