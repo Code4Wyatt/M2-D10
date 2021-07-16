@@ -1,0 +1,27 @@
+#navbarDropdown {
+  color: rgb(202, 202, 202);
+}
+
+.navbar {
+  position: relative;
+
+  padding: 0.5rem 1rem;
+}
+
+.nav-item {
+  justify-content: left !important;
+}
+
+.nav-icon {
+  color: rgb(202, 202, 202);
+}
+
+.items-start {
+  position: relative;
+  left: 400px;
+}
+
+.items-end {
+  position: relative;
+  right: 400px;
+}
